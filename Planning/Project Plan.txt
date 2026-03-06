@@ -1,5 +1,25 @@
-Project plan - Develop a web-based platform for connecting high school student with tutors to provide affordable academic support.6
+Project Plan - EduNexus
 
+Project Title - EduNexus Onling Tutoring Platform
 
-Trello links: 
-https://trello.com/b/U1G40ijr/quality-education
+Sustainable Development Goal - SDG4-Quality Education
+
+Objective - To provide an online platform where high school students can connect with tutors for academic support and allows students to find tutors, request tutoring sessions and access study materials that uploaded by tutors.
+
+Development Methodology - Agile method using Scrum. 
+The development process is divided into two main sprints which are:
+Sprint 1 - Finalise functional requirements, create use case and class diagram, student registeration and login(basic UI), student and tutor dashboard layout.
+Sprint 2 - Implement booking system, implement study materials(upload and access), implement admin account management.
+
+We used Trello (for task management), GitHub (project repository), Draw.io(Class Diagram), Visual Paradigm(Use Case Diagram) and Figma(interface prototype) as our tools.
+
+EduNexus is a web-based platform that connects high school students with peer tutors, which offer a cost-effective and easily accessible way to get help. 
+
+Product Vision:
+Why EduNexus is needed? - Many students struggle with expensive tuition classes, limited academic support and shy to ask question in class.
+
+How can users use EduNexus?
+Students can register/log into the system, select courses that they need help with, access study materials/resources and request/book tutoring sessions.
+Tutors can create/upload their profiles, upload study materials, accept/reject tutoring session requests.
+Administrators can manage the platform by managing resources and managing users' account.
+
