@@ -5,7 +5,7 @@ As a student,
   - can select courses to study.
   - can access study materials and any resources that uploaded by tutors.
   - can request to book tutoring session.
-  - can view their score progress over time.
+  - can view score progress over time.
 
 As a tutor,
   - can register and log in into the system.
