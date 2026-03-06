@@ -1,2 +1,11 @@
-Sprint 1 Review:
-First, focuse on defining the system requirements and preparing 
+Sprint 1:
+  1. Focus on defining the system requirements and preparing the initial system design.
+  2. Finalise the functional requirements based on the user stories during the planning phase. The requirements defined the features for students, tutors and administrators.
+  3. Create the Use Case Diagram and Class Diagram to show the connections and relationships of the system structure.
+  4. Early prototype interface include, student registeration and login(basic UI layout), student and tutor's dashboard layout.
+
+Sprint 2:
+  1. Focus on implementing core system features in the prototype.
+  2. Implement the booking system which allow students to request tutoring sessions and enable tutors to manage booking requests.
+  3. Implement study materials and resources feature which allow tutors to upload their notes or practice questions for students.
+  4. Implement administrative features which allow administrator to manage user account and manage resources.
