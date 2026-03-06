@@ -1,1 +1,2 @@
-
+Sprint 1 Review:
+First, focuse on defining the system requirements and preparing 
