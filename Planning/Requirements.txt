@@ -1,14 +1,13 @@
 Functional Requirements:
 As a student,
-  - can register an account.
-  - can log in to the system.
-  - can select courses to study.
+  - can log in to the system, so I can securely access to my account.
+  - can choose and selet courses to study.
   - can access study materials and any resources that uploaded by tutors.
   - can request to book tutoring session.
   - can view score progress over time.
 
 As a tutor,
-  - can register and log in into the system.
+  - can log in into the system.
   - can create/update their personal profiles.
   - can upload study materials and any resources for students.
   - can manage tutoring booking requests.
@@ -17,8 +16,7 @@ As a tutor,
 As an admin,
   - can manage users' account.
   - can add/delete student and tutor accounts.
-  - can manage learning resources.
-  - can update/remove old materials.
+  - can delete old study materials.
 
 Non-Functional Requirements:
 - System should have an user-friendly interface.
