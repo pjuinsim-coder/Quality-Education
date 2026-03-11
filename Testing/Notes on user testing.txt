@@ -1,10 +1,14 @@
 User Testing 1 (User Log in Page): 
-  - Every user include student, tutor and admin can still access to their dashboard even though the password is invalid.
-  - Need to fix it.
+  - Can still access to the dashboard even though the password is invalid.
+  - Need to fix it with show invalid password and cannot access to the website.
 
-User Testing 2 (Student Book Session Page):
+User Testing 2 (Student Booking Session Page):
   - Student are able to book a session with select their course that need guided, choose a tutor, choose date and duration of the meeting.
   - If the student done the request steps, there will pop up "Your request is successful. Wait for tutor response...".
-  - Student request booking page can works well.
 
-User Testing 2 ()
+User Testing 3 (Tutor Booking Session Page):
+  - Tutor can view if there have any booking request by students.
+  - Tutor is able to choose to accept or reject the booking request by students.
+
+User Testing 4 (Admin Management Page):
+  - Admin can 
