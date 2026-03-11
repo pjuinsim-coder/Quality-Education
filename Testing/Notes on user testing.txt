@@ -11,4 +11,5 @@ User Testing 3 (Tutor Booking Session Page):
   - Tutor is able to choose to accept or reject the booking request by students.
 
 User Testing 4 (Admin Management Page):
-  - Admin can 
+  - Admin can manage resources which is able to choose to delete any the old materials.
+  - Admin can also manage user acccount with add or delete account.
